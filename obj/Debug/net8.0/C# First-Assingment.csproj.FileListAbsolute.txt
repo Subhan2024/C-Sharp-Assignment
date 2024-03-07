@@ -1,0 +1,14 @@
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\C# First-Assingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\C# First-Assingment.AssemblyInfoInputs.cache
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\C# First-Assingment.AssemblyInfo.cs
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\C# First-Assingment.csproj.CoreCompileInputs.cache
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\bin\Debug\net8.0\C# First-Assingment.exe
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\bin\Debug\net8.0\C# First-Assingment.deps.json
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\bin\Debug\net8.0\C# First-Assingment.runtimeconfig.json
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\bin\Debug\net8.0\C# First-Assingment.dll
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\bin\Debug\net8.0\C# First-Assingment.pdb
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\C# First-Assingment.dll
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\refint\C# First-Assingment.dll
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\C# First-Assingment.pdb
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\C# First-Assingment.genruntimeconfig.cache
+C:\Users\Subhan Khan\source\repos\C# First-Assingment\C# First-Assingment\obj\Debug\net8.0\ref\C# First-Assingment.dll
